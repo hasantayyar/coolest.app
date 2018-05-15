@@ -1,4 +1,3 @@
-# coolest.app
-coolest.app landing page
+coolests.app landing page
 
 [github](https://github.com/hasantayyar)
